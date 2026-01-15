@@ -1,0 +1,27 @@
+baseURL = "https://danielt.se/"
+title = "Daniel Tse"
+languageCode = "en"
+DefaultContentLanguage = "en"
+theme = "HugoTeX"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+
+[pagination]
+pagerSize = 5
+
+[Params.Author]
+name = "Daniel Tse"
+abstract = """
+I'm a Product Manager at Google Research, currently working on AI HW/SW infrastructure.
+"""
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+
+[Params]

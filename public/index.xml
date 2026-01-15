@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daniel Tse</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Daniel Tse</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;!-- ## Background&#xA;&#xA;(Add whatever you&#39;d like here)&#xA;&#xA;## Projects&#xA;&#xA;- **Datenight** — A restaurant discovery and date planning web app --&gt;&#xA;&lt;h2 id=&#34;contact&#34;&gt;Contact&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;hello {at} danielt.se&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://linkedin.com/in/tsetsefly&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/tsetsefly&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://scholar.google.com/citations?user=R-FDBBcAAAAJ&amp;amp;hl=en&#34;&gt;Google Scholar&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
