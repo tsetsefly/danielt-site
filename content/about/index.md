@@ -13,7 +13,6 @@ draft: false
 
 ## Contact
 
-- hello {at} danielt.se
 - [LinkedIn](https://linkedin.com/in/tsetsefly)
 - [GitHub](https://github.com/tsetsefly)
 - [Google Scholar](https://scholar.google.com/citations?user=R-FDBBcAAAAJ&hl=en)
