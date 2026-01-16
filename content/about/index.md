@@ -9,7 +9,7 @@ draft: false
 
 ## Projects
 
-- **Datenight** — A restaurant discovery and date planning/tracking web app
+- [Datenight](https://datenight.danielt.se/) — A restaurant discovery and date planning/tracking web app
 
 ## Links
 
