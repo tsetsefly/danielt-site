@@ -5,11 +5,11 @@ draft: false
 
 <!-- ## Background
 
-(Add whatever you'd like here)
+(Add whatever you'd like here) -->
 
 ## Projects
 
-- **Datenight** — A restaurant discovery and date planning web app -->
+- **Datenight** — A restaurant discovery and date planning/tracking web app
 
 ## Links
 
