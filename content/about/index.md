@@ -11,7 +11,7 @@ draft: false
 
 - **Datenight** — A restaurant discovery and date planning web app -->
 
-## Contact
+## Links
 
 - [LinkedIn](https://linkedin.com/in/tsetsefly)
 - [GitHub](https://github.com/tsetsefly)
