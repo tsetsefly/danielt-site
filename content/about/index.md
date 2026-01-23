@@ -9,7 +9,7 @@ draft: false
 
 ## Projects
 
-- [Datenight](https://datenight.danielt.se/) — A restaurant discovery and date planning/tracking web app. If you'd like to try out the app, please e-mail me at the contact below.
+- [Datenight](https://datenight.danielt.se/) — A restaurant discovery and date planning/tracking web app. If you'd like to try out the app, please contact me at the e-mail below.
 
 ## Links
 
